@@ -1,0 +1,8 @@
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\ObrushtaneNaNiz\bin\Debug\ObrushtaneNaNiz.exe.config
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\ObrushtaneNaNiz\bin\Debug\ObrushtaneNaNiz.exe
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\ObrushtaneNaNiz\bin\Debug\ObrushtaneNaNiz.pdb
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\ObrushtaneNaNiz\obj\Debug\ObrushtaneNaNiz.csproj.AssemblyReference.cache
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\ObrushtaneNaNiz\obj\Debug\ObrushtaneNaNiz.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\ObrushtaneNaNiz\obj\Debug\ObrushtaneNaNiz.csproj.CoreCompileInputs.cache
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\ObrushtaneNaNiz\obj\Debug\ObrushtaneNaNiz.exe
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\ObrushtaneNaNiz\obj\Debug\ObrushtaneNaNiz.pdb

@@ -1,0 +1,8 @@
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\UnicodeSimvoli\bin\Debug\UnicodeSimvoli.exe.config
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\UnicodeSimvoli\bin\Debug\UnicodeSimvoli.exe
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\UnicodeSimvoli\bin\Debug\UnicodeSimvoli.pdb
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\UnicodeSimvoli\obj\Debug\UnicodeSimvoli.csproj.AssemblyReference.cache
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\UnicodeSimvoli\obj\Debug\UnicodeSimvoli.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\UnicodeSimvoli\obj\Debug\UnicodeSimvoli.csproj.CoreCompileInputs.cache
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\UnicodeSimvoli\obj\Debug\UnicodeSimvoli.exe
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\UnicodeSimvoli\obj\Debug\UnicodeSimvoli.pdb

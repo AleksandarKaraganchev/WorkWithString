@@ -1,0 +1,8 @@
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\Palindrom\bin\Debug\Palindrom.exe.config
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\Palindrom\bin\Debug\Palindrom.exe
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\Palindrom\bin\Debug\Palindrom.pdb
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\Palindrom\obj\Debug\Palindrom.csproj.AssemblyReference.cache
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\Palindrom\obj\Debug\Palindrom.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\Palindrom\obj\Debug\Palindrom.csproj.CoreCompileInputs.cache
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\Palindrom\obj\Debug\Palindrom.exe
+D:\Програмиране\SimvolniNizoveObrabotkaUprajneniq\Palindrom\obj\Debug\Palindrom.pdb
